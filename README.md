@@ -7,4 +7,6 @@
       <li> To execute the command run :  <code>!{command_sequence_number}</code>   (e.g !324) </li>
     </ol>
   </li>
+  <li> Make <code>bash</code> terimal use vim like key bindings (You could also add this to <code>.bashrc</code>): 
+    <code>set -o vi</code>
   </ul>
