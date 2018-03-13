@@ -10,5 +10,7 @@
   <li> Make <code>bash</code> terimal use vim like key bindings (You could also add this to <code>.bashrc</code>): 
     <code>set -o vi</code> </li>
   <li>Recursively Search file in a directory:
-    <code> find . -name "*Mock*" </code>
+    <code> find . -name "*Mock*" </code></li>
+  <li> Kill the process occupying a specific port: 
+    <code> fuser -n tcp -k 9001 </code>
   </ul>
