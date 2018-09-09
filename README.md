@@ -11,6 +11,8 @@
     <code>set -o vi</code> </li>
   <li>Recursively Search file in a directory:
     <code> find . -name "*Mock*" </code></li>
+  <li> Find pid of a process by name: 
+    <code> pidof firefox </code></li>
   <li> Kill the process occupying a specific port: 
-    <code> fuser -n tcp -k 9001 </code>
+    <code> fuser -n tcp -k 9001 </code></li>
   </ul>
