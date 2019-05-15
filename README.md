@@ -1,5 +1,5 @@
 ## A collection of useful tips related to Linux terminal and Linux in general.
-
+<h2> Linux </h2>
 <ul>
   <li> Execute a command from terminal history
     <ol>
@@ -15,4 +15,16 @@
     <code> pidof firefox </code></li>
   <li> Kill the process occupying a specific port: 
     <code> fuser -n tcp -k 9001 </code></li>
-  </ul>
+</ul>
+
+---
+
+<h2> Android </h2>
+<ul>
+  <li> Fastboot get product details
+    <ol>
+      <li> Get product name: <code>fastboot getvar product</code> </li>
+      <li> Get all details: <code>fastboot getvar all</code></li>
+    </ol>
+  </li>
+</ul>
