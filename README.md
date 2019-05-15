@@ -1,4 +1,5 @@
-## A collection of useful tips related to Linux terminal and Linux in general.
+## A collection of handy terminal commands.
+
 <h2> Linux </h2>
 <ul>
   <li> Execute a command from terminal history
